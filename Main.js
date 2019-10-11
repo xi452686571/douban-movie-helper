@@ -86,23 +86,11 @@ var update_sites_list = function () {
                     "title": "http://assrt.net/sub/?searchword=",
                     "selector": "div.body div.subitem"
                 },
-                "163字幕": {
-                    "title": "http://www.163sub.com/Search?id=",
-                    "selector": "#main_narrow_bd div.subs_list"
-                },
-                "字幕社": {
-                    "title": "https://www.zimushe.com/search.php?keywords=",
-                    "selector": "div.wrap-l li"
-                }
             }
         },
         "ptsite": {
             "name": "PT资源",
             "sites": {
-                "GZTown": {
-                    "imdb": "https://pt.gztown.net/torrents.php?&incldead=0&spstate=0&inclbookmarked=0&search_area=4&search_mode=2&search=",
-                    "title": "https://pt.gztown.net/torrents.php?&incldead=0&spstate=0&inclbookmarked=0&search_area=0&search_mode=2&search=",
-                },
                 "HDHome": {
                     "imdb": "https://hdhome.org/torrents.php?&incldead=0&spstate=0&inclbookmarked=0&search_area=4&search_mode=2&search=",
                     "title": "https://hdhome.org/torrents.php?&incldead=0&spstate=0&inclbookmarked=0&search_area=0&search_mode=2&search=",
